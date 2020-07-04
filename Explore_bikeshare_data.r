@@ -3,9 +3,9 @@ ny = read.csv('new_york_city.csv')
 wash = read.csv('washington.csv')
 chi = read.csv('chicago.csv')
 
-head(ny)     #First 5 entries of the new york city dataset
+head(ny)     #First five entries of the new york city dataset
 
-head(wash)   #First 5 entries of the washington dataset
+head(wash)   #First five entries of the washington dataset
 
 head(chi)    
 
