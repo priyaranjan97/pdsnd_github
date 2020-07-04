@@ -19,7 +19,7 @@ class(ny$New.Start.Time)
 
 library(lubridate)     #this is the library to fetch date & time from a factor datatype
 
-table(month(ny$New.Start.Time))
+table(month(ny$New.Start.Time))   #table function shows the count of each class 
 
 #we have 6 months data so we are scaled our x axis to 6 units
 
