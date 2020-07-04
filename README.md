@@ -2,7 +2,7 @@
 14-07-2020
 
 ### Project Title
-Udacity Programming for Data Science Nanodegree Program Explore-US-Bikeshare-Data
+Udacity Programming for Data Science Nanodegree Program Explore-US-Bikeshare-Data.
 
 ### Description
 Here, I will perform git commands to complete all the task on my local and remote git repository on project Explore-US-Bikeshare-Data. Tasks performed:
