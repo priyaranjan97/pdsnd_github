@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+14-07-2020
 
 ### Project Title
-Replace the Project Title
+Udacity Programming for Data Science Nanodegree Program Explore-US-Bikeshare-Data
 
 ### Description
-Describe what your project is about and what it does
+Here, I will perform git commands to complete all the task on my local and remote git repository on project Explore-US-Bikeshare-Data. Tasks performed:
+
+1. Set Up Repository
+2. Improve Documentation
+3. Additional Changes to Documentation
+4. Refactor Code
+5. Merge Branches
 
 ### Files used
-Include the files used
+The dataset used was provided by Motivate - https://www.motivateco.com
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to Udacity for providing the course and the needed materials.
+
 
