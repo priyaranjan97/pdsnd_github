@@ -7,7 +7,7 @@ head(ny)     #First 5 entries of the new york city dataset
 
 head(wash)   #First 5 entries of the washington dataset
 
-head(chi)
+head(chi)    
 
 library(ggplot2)
 
@@ -17,7 +17,7 @@ ny$New.Start.Time=strptime(ny$Start.Time,format = '%Y-%m-%d %H:%M:%S')
 
 class(ny$New.Start.Time)
 
-library(lubridate)
+library(lubridate)     #this is the library to fetch date & time from a factor datatype
 
 table(month(ny$New.Start.Time))
 
