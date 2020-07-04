@@ -1,5 +1,5 @@
 ### Date created
-14-07-2020
+04-July-2020
 
 ### Project Title
 Udacity Programming for Data Science Nanodegree Program Explore-US-Bikeshare-Data.
